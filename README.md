@@ -152,7 +152,6 @@ Structure of Robot Chassis
 - `map_reading()` – 2D map reading  
 
 <br>
-<p align="center">
-  <a href=https://github.com/user-attachments/assets/b7971753-1921-4bf2-af87-84a450e906f5>
-  </a>
-</p>
+
+https://github.com/user-attachments/assets/2c020f59-3387-43c8-be6c-983f413f9202
+
