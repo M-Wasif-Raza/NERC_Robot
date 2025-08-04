@@ -153,6 +153,6 @@ Structure of Robot Chassis
 
 <br>
 <p align="center">
-  <a href="https://github.com/M-Wasif-Raza/NERC_Robot/blob/main/Media/NERC%20Bot.mp4?raw=true">
+  <a href=https://github.com/user-attachments/assets/b7971753-1921-4bf2-af87-84a450e906f5>
   </a>
 </p>
